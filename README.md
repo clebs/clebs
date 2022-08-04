@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 <p align="center">
-    <a href="https://github.com/1999AZZAR/">
+    <a href="https://github.com/clebs/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=clebs&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=clebs&theme=tokyonight&hide_border=true" />
     </a>
