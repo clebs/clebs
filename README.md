@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <h1 align="center">Hi 👋, I'm Borja</h1>
-<h4 align="center">a cloud native & distributed systems developer and Golang enthusiast</h4>
+<h4 align="center">a cloud native & distributed systems developer and systems programming languages enthusiast (Go, Rust, Zig)</h4>
 </div>
 
 <div align="center">
