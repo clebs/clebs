@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <h1 align="center">Hi 👋, I'm Borja</h1>
-<h4 align="center">a cloud native & distributed systems developer and systems programming languages enthusiast (Go, Rust, Zig)</h4>
+<h4 align="center">a cloud native & distributed systems developer and systems programming languages & Linux enthusiast (Go, Zig, NixOS)</h4>
 </div>
 
 <div align="center">
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 Credit: [clebs](https://github.com/clebs)
 
-Last Edited on: 05.08.2022
+Last Edited on: 22.08.2025
