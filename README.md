@@ -1,41 +1,41 @@
-<!--
-**clebs/clebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 <div align="center">
 <h1 align="center">Hi 👋, I'm Borja</h1>
-<h4 align="center">a cloud native & distributed systems developer and systems programming languages & Linux enthusiast (Go, Zig, NixOS)</h4>
-</div>
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-<p align="center">
-    <a href="https://github.com/clebs/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=clebs&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=clebs&theme=tokyonight&hide_border=true" />
-    </a>
- </p>
+<h4 align="center">Cloud native & distributed systems engineer and systems programming languages & Linux enthusiast</h4>
 </div>
 
 ----
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github Trophies:</h2> 
+- 💼 Staff Software Engineer at [Broadcom][broadcom].
+- 🚢 Contributor to [Kubernetes][Kubernetes], [Zig][Zig], [Ghostty][Ghostty] and [NixOS][NixOS]
+- 🔭 [Nixpkgs][Nixpkgs] Maintainer.
+- 💬 Ask me about [Kubernetes][kubernetes], [NixOS][NixOS], Go, Zig and Open Source.
+- 😄 Pronouns: he/him
+- ⚡ Fun Fact: I live in the terminal 💻
+- 📫 Reach out to me on [Bluesky][bluesky] or [LinkedIn][linkedin].
 
-[![](https://github-profile-trophy.vercel.app/?username=clebs&layout=compact&theme=algolia)](https://github.com/clebs)
+----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<p align="center">
+    <img width="33%" height="130px" src="https://github-readme-stats.vercel.app/api?username=clebs&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+    <img width="33%" height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=clebs&theme=tokyonight&hide_border=true" />
+    <img width="33%" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebs&hide=mathematica,javascript,php&layout=compact&theme=tokyonight&hide_border=true" />
+ </p>
 </div>
 
 
-Credit: [clebs](https://github.com/clebs)
+[broadcom]: //broadcom.com
+[kubernetes]: //kubernetes.io
+[NixOS]: //nixos.org
+[Nixpkgs]: //github.com/NixOS/nixpkgs
+[Zig]: //ziglang.org
+[Ghostty]: //ghostty.org
+[linkedin]: //www.linkedin.com/in/borja-clemente-castanera/
+[bluesky]: //bsky.app/profile/clebsh.bsky.social
 
-Last Edited on: 22.08.2025
+
+Credit: [clebs](https://github.com/clebs)
