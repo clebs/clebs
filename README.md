@@ -21,9 +21,9 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 <p align="center">
-    <img width="50%" height="130px" src="https://github-readme-stats.vercel.app/api?username=clebs&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+    <img width="40%" height="180px" src="https://github-readme-stats.vercel.app/api?username=clebs&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
     <!-- <img width="33%" height="130px" src="https://streak-stats.demolab.com/?user=clebs&theme=tokyonight&hide_border=true" /> -->
-    <img width="50%" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebs&hide=mathematica,javascript,php&layout=compact&theme=tokyonight&hide_border=true" />
+    <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebs&hide=mathematica,javascript,php&layout=compact&theme=tokyonight&hide_border=true" />
  </p>
 </div>
 
