@@ -8,7 +8,7 @@
 
 ----
 
-- 💼 Staff Software Engineer at [Broadcom][broadcom].
+- 💼 Senior Software Engineer at [Red Hat][red-hat].
 - 🚢 Contributor to [Kubernetes][Kubernetes], [Zig][Zig], [Ghostty][Ghostty] and [NixOS][NixOS]
 - 🔭 [Nixpkgs][Nixpkgs] Maintainer.
 - 💬 Ask me about [Kubernetes][kubernetes], [NixOS][NixOS], Go, Zig and Open Source.
@@ -28,7 +28,7 @@
 </div>
 
 
-[broadcom]: //broadcom.com
+[red-hat]: //redhat.com
 [kubernetes]: //kubernetes.io
 [NixOS]: //nixos.org
 [Nixpkgs]: //github.com/NixOS/nixpkgs
