@@ -1,10 +1,6 @@
-
-
-
-<div align="center">
-<h1 align="center">Hi 👋, I'm Borja</h1>
-<h4 align="center">Cloud native & distributed systems engineer and systems programming languages & Linux enthusiast</h4>
-</div>
+<picture>
+  <img src="metrics/header.svg" alt="Borja Clemente">
+</picture>
 
 ----
 
@@ -18,14 +14,9 @@
 
 ----
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-<p align="center">
-    <img width="40%" height="180px" src="https://github-readme-stats.vercel.app/api?username=clebs&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-    <!-- <img width="33%" height="130px" src="https://streak-stats.demolab.com/?user=clebs&theme=tokyonight&hide_border=true" /> -->
-    <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebs&hide=mathematica,javascript,php&layout=compact&theme=tokyonight&hide_border=true" />
- </p>
-</div>
+<picture>
+  <img src="metrics/community.svg" alt="Borja Clemente">
+</picture>
 
 
 [red-hat]: //redhat.com
